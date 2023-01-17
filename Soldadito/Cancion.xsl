@@ -13,6 +13,7 @@
 					<xsl:for-each select="verso">
 						<p><xsl:value-of select="."/></p>
 					</xsl:for-each>
+					<br/>
 				</xsl:for-each>
 			</body>
 		</html>
