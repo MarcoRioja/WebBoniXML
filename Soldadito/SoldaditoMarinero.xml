@@ -2,7 +2,6 @@
 
 <?xml-stylesheet type="text/xsl" href="Cancion.xsl"?>
 
-<canciones>
     <cancion>
         <titulo>Soldadito Marinero</titulo>
         <autor>Fito y los Fitipaldis</autor>
@@ -43,4 +42,3 @@
             
         </letra>
     </cancion>
-</canciones>
