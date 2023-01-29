@@ -3,14 +3,17 @@
 	<xsl:template match="/">
 		<html>
 			<head>
-				
+				<link rel="stylesheet" href="cancion.css"/>
 			</head>
 			<body>
 				<h2>Cancion:</h2>
 				<h1><xsl:value-of select="cancion/titulo"/></h1>
-				<p>(Autor: <xsl:value-of select="cancion/autor"/>)</p>
+				<h3>(Autor: <span><xsl:value-of select="cancion/autor"/></span> )</h3>
 				<br/>
 				<xsl:for-each select="cancion/letra/estrofa">
+					<xsl:if test="tipo = 'estribillo'">
+						<h3>Estribillo:</h3>
+					</xsl:if>
 					<xsl:for-each select="verso">
 						<p><xsl:value-of select="."/></p>
 					</xsl:for-each>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<?xml-stylesheet type="text/xsl" href="cancion.xsl"?>
+
+    <cancion>
+        <titulo>Garabatos</titulo>
+        <autor>Fito y los Fitipaldis</autor>
+        <letra>
+            <estrofa>
+                <verso>Todo llega y todo pasa</verso>
+                <verso>Como un espejismo</verso>
+                <verso>Todos fuimos garabatos</verso>
+                <verso>De nosotros mismos</verso>
+            </estrofa>
+            <estrofa>
+                <verso>Lo que queda en la mirada</verso>
+                <verso>No es que esté escondido</verso>
+                <verso>Pero hay cosas que solo se ven</verso>
+                <verso>Si pasas cerca del abismo</verso>
+            </estrofa>
+            <estrofa>
+                <verso>Y en las puertas de mi barrio</verso>
+                <verso>Descubrí la vida</verso>
+            </estrofa>
+            <estrofa>
+                <verso>Y la quise besar</verso>
+                <verso>Y ella quería morderme</verso>
+                <verso>Toda mi vida es un gesto</verso>
+                <verso>Que solo tus ojos entienden</verso>
+                <verso>Yo la quería besar</verso>
+                <verso>Y ella quería morderme</verso>
+            </estrofa>
+            <estrofa>
+                <verso>Ordenando mis recuerdos</verso>
+                <verso>He pensa'o que todo fue hace mucho tiempo ya</verso>
+                <verso>Cada mañana en el espejo</verso>
+                <verso>Le saludo siempre al viejo que llegó cuando se fue el chaval</verso>
+            </estrofa>
+            <estrofa>
+                <verso>Casi como un accidente</verso>
+                <verso>Me envolvió el sonido</verso>
+                <verso>Hay canciones que te dan de frente</verso>
+                <verso>Y te señalan el camino</verso>
+            </estrofa>
+            <estrofa>
+                <verso>Y en las puertas de mi barrio</verso>
+                <verso>Descubrí la vida</verso>
+            </estrofa>
+            <estrofa>
+                <tipo>estribillo</tipo>
+                <verso>Y la quise besar</verso>
+                <verso>Y ella quería morderme</verso>
+                <verso>Toda mi vida es un gesto</verso>
+                <verso>Que solo tus ojos entienden</verso>
+                <verso>Y la quise besar</verso>
+                <verso>Y ella quería morderme</verso>
+                <verso>Toda mi vida es un gesto</verso>
+                <verso>Que solo tus ojos entienden</verso>
+            </estrofa>
+            <estrofa>
+                <verso>Abrió la boca y me tragó</verso>
+                <verso>Y no dejó de repetir</verso>
+                <verso>"Ven a mi lado y te daré</verso>
+                <verso>Todo lo que pidas"</verso>
+            </estrofa>
+            <estrofa>
+                <verso>Y ahora que sé que me engañó</verso>
+                <verso>Solo me queda por decir</verso>
+                <verso>Que cada vez que me perdí</verso>
+                <verso>Me encontró la vida</verso>
+            </estrofa>
+            <estrofa>
+                <tipo>estribillo</tipo>
+                <verso>Y la quise besar</verso>
+                <verso>Y ella quería morderme</verso>
+                <verso>Toda mi vida es un gesto</verso>
+                <verso>Que solo tus ojos entienden</verso>
+                <verso>Y la quise besar</verso>
+                <verso>Y ella quería morderme</verso>
+                <verso>Toda mi vida es un gesto</verso>
+                <verso>Que solo tus ojos entienden</verso>
+            </estrofa>
+        </letra>
+    </cancion>
